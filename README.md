@@ -15,7 +15,7 @@ A modern, responsive portfolio website built with HTML, CSS, and JavaScript. Per
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://yourusername.github.io/portfolio) *(Replace with your GitHub Pages URL)*
+*Live demo link will be available after GitHub Pages deployment*
 
 ## 📁 Project Structure
 
@@ -90,7 +90,7 @@ The website uses a modern gradient-based color scheme:
 4. Select "Deploy from a branch"
 5. Choose "main" branch and "/ (root)" folder
 6. Click Save
-7. Your site will be available at `https://yourusername.github.io/repository-name`
+7. Your site will be available at `https://YOUR_USERNAME.github.io/REPOSITORY_NAME`
 
 ## 📋 Setup Instructions
 
